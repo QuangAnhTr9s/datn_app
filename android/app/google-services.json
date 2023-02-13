@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715417568762",
+    "firebase_url": "https://datn-qa-esp8266-default-rtdb.firebaseio.com",
+    "project_id": "datn-qa-esp8266",
+    "storage_bucket": "datn-qa-esp8266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715417568762:android:673f6a62e06c07b14d5043",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715417568762-c9oc6pcolscu4ohq18pg6nr669r7ohn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-12Z1gTJikX1Avb_n4Iu_v5nDRk0BV1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715417568762-c9oc6pcolscu4ohq18pg6nr669r7ohn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
